@@ -1,0 +1,4 @@
+scalar Upload
+type Query {
+    helloWorld: [Hello!]!
+}

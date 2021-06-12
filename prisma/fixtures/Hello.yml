@@ -1,0 +1,4 @@
+entity: helloModel
+items:
+    helloModel{1..20}:
+        text: 'hello($current)'
